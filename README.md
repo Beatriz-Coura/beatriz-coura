@@ -1,8 +1,9 @@
 ## Olá, eu sou a Beatriz Coura estudante de Sistemas de Informação na PUC Minas!
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/beatrizfcoura/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizfcoura&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Beatriz's github stats" /></a> | <a href="https://github.com/beatrizfcoura/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfcoura&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
