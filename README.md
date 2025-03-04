@@ -1,8 +1,13 @@
 ## Olá, eu sou a Beatriz Coura estudante de Sistemas de Informação na PUC Minas!
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizfcoura&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Beatriz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfcoura&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div>
+    <a href="https://beacons.ai/rafaballerini">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriz-coura&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-coura&layout=compact&langs_count=16&theme=shadow_red"/>
+    </a>
+</div>
+
 
 
 <div style="display: inline_block"><br>
