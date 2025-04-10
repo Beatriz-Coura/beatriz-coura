@@ -3,7 +3,7 @@
 Sou uma entusiasta de backend e automação do Brasil 🇧🇷
 
 **Sobre mim**
-- 💼 Estagiária na FUNED, atuando com modelagem e automação de processos
+- 💼 Estagiária na FUNED, atuando com modelagem, automação de processos e análise de dados
 - 📊 Explorando Python, Power BI e desenvolvimento backend
 - 🚀 Apaixonada por resolver problemas e criar sistemas eficientes
 - 💬 Pergunte-me qualquer coisa!
