@@ -17,10 +17,11 @@ Sou uma entusiasta de backend e automação do Brasil 🇧🇷
 
 
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bea-CSS" height="30" width="40" src="![image](https://github.com/user-attachments/assets/ce94f443-215c-4173-8e0e-7b30eb91c933)">
+  <img align="center" alt="Bea-CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg">
   <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bea-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
