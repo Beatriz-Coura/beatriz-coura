@@ -1,12 +1,15 @@
 ## Olá, eu sou a Beatriz Coura estudante de Sistemas de Informação na PUC Minas!
 
-Sou uma entusiasta de backend e automação do Brasil 🇧🇷
+Sou uma entusiasta de **Quality Assurance, backend e automação** do Brasil 🇧🇷
 
 **Sobre mim**
-- 💼 Estagiária na FUNED, atuando com modelagem, automação de processos e análise de dados
-- 📊 Explorando Python, Power BI e desenvolvimento backend
-- 🚀 Apaixonada por resolver problemas e criar sistemas eficientes
-- 💬 Pergunte-me qualquer coisa!
+
+* 💼 Estagiária em **Quality Assurance na Rumo Soluções**, com experiência em escrita e execução de casos de teste, validação de requisitos e testes funcionais, não funcionais e exploratórios
+* 🧪 Atuação em **integração com APIs** (Postman) e apoio em automação de testes
+* 📊 Estudando **Python, SQL e Desenvolvimento Web** para expandir minha base técnica
+* 🚀 Apaixonada por resolver problemas, garantir qualidade e criar sistemas eficientes
+* 💬 Gosto de compartilhar conhecimento e trocar experiências sobre tecnologia
+
 
 <div>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriz-coura&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
