@@ -6,14 +6,14 @@ Estudante de **Sistemas de Informação na PUC Minas** e entusiasta de **Quality
 - 💼 **QA Junior na Rumo Soluções** - atuando em projetos estratégicos e testes de qualidade, com foco em integração com APIs, automação com Selenium e apoio no mapeamento de processos.  
 - 🏆 Certificada em **Engenharia de Requisitos CPRE Foundation Level**.  
 - 💻 Estudando **C#, Desenvolvimento Web, Bancos de Dados e Testes Automatizados**, expandindo minha base técnica e visão de produto.  
-- 🚀 Apaixonada porresolver problemas, garantir qualidade e criar sistemas eficientes.  
+- 🚀 Apaixonada por resolver problemas, garantir qualidade e criar sistemas eficientes.  
 - 💬 Gosto de compartilhar conhecimento e trocar experiências sobre tecnologia e boas práticas de QA.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bea-CSS" height="30" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg">
-  <img align="center" alt="Bea-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" src="https://www.svgrepo.com/show/452185/css-3.svg">
+  <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
