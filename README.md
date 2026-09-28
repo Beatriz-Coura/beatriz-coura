@@ -3,7 +3,7 @@
 Estudante de **Sistemas de Informação na PUC Minas** e entusiasta de **Quality Assurance, backend e automação** do Brasil 🇧🇷
 
 **Sobre mim**
-- 💼 **QA Junior na Rumo Soluções** - atuando em projetos estratégicos e testes de qualidade, com foco em integração com APIs, automação com Selenium e apoio no mapeamento de processos.  
+- 💼 **Lead QA na Connecta** - atuando em projetos estratégicos e testes de qualidade, com foco em integração com APIs, automação com Selenium e apoio no mapeamento de processos.  
 🏆 Certificada em **Engenharia de Requisitos (CPRE Foundation Level)** e **Teste de Software (CTFL – Certified Tester Foundation Level | ISTQB)**.
 - 💻 Estudando **C#, Desenvolvimento Web, Bancos de Dados e Testes Automatizados**, expandindo minha base técnica e visão de produto.  
 - 🚀 Apaixonada por resolver problemas, garantir qualidade e criar sistemas eficientes.  
